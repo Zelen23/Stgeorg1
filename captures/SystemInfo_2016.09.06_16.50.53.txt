@@ -1,0 +1,122 @@
+TASK ru.zsoft.com.stgeorg id=286
+  ACTIVITY ru.zsoft.com.stgeorg/.windows_tables 427a4690 pid=18314
+    Local FragmentActivity 41d42f60 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@41daf400
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@41daf400
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{41d4aa60 V.E..... ... 0,0-600,1024}
+        android.widget.LinearLayout{41d35940 V.E..... ... 0,0-600,1024}
+          android.view.ViewStub{41d6d720 G.E..... ... 0,0-0,0 #102037c}
+          android.widget.FrameLayout{41d44680 V.E..... ... 0,25-600,1024}
+            android.support.v7.widget.ActionBarOverlayLayout{41d21ce0 V.ED.... ... 0,0-600,999 #7f0c003f app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{41d23500 V.ED.... ... 0,64-600,999 #1020002 android:id/content}
+                android.widget.RelativeLayout{41d55130 V.E..... ... 0,0-600,935}
+                  android.widget.ListView{41d3ea28 VFED.VCL F.. 0,0-600,935 #7f0c0070 app:id/listView}
+                    android.support.v7.widget.AppCompatTextView{41dc8328 V.ED.... ... 0,0-600,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dc9db8 V.ED.... ... 0,49-600,97 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dca570 V.ED.... ... 0,98-600,146 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dcad28 V.ED.... ... 0,147-600,195 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dcb4e0 V.ED.... ... 0,196-600,244 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dcbc98 V.ED.... ... 0,245-600,293 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dcc450 V.ED.... ... 0,294-600,342 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dccc08 V.ED.... ... 0,343-600,391 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dcd3c0 V.ED.... ... 0,392-600,440 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dcdb78 V.ED.... ... 0,441-600,489 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dce330 V.ED.... ... 0,490-600,538 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dceae8 V.ED.... ... 0,539-600,587 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dcf2a0 V.ED.... ... 0,588-600,636 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dcfad0 V.ED.... ... 0,637-600,685 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dd0288 V.ED.... ... 0,686-600,734 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dd0a40 V.ED.... ... 0,735-600,783 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dd11f8 V.ED.... ... 0,784-600,832 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dd19b0 V.ED.... ... 0,833-600,881 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dd2168 V.ED.... ... 0,882-600,930 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41dd2920 V.ED.... ... 0,931-600,979 #1020014 android:id/text1}
+              android.support.v7.widget.ActionBarContainer{41d32e50 V.ED.... ... 0,0-600,64 #7f0c0040 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{41d44a30 V.E..... ... 0,0-600,64 #7f0c0041 app:id/action_bar}
+                  android.widget.TextView{41d45198 V.ED.... ... 24,18-93,46}
+                  android.support.v7.widget.ActionMenuView{41dd3680 V.E..... ... 552,4-592,60}
+                    android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{41dd3b30 VFED..C. ... 0,4-40,52}
+                android.support.v7.widget.ActionBarContextView{41d3f2d0 G.E..... ... 0,0-0,0 #7f0c0042 app:id/action_context_bar}
+
+  ACTIVITY ru.zsoft.com.stgeorg/.MainActivity 427a9608 pid=18314
+    Local FragmentActivity 41d228a8 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@41d23838
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@41d23838
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{41d34828 I.E..... ... 0,0-600,1024}
+        android.widget.LinearLayout{41d39550 V.E..... ... 0,0-600,1024}
+          android.view.ViewStub{41d3c9e8 G.E..... ... 0,0-0,0 #102037c}
+          android.widget.FrameLayout{41d3ce80 V.E..... ... 0,25-600,1024}
+            android.support.v7.widget.ActionBarOverlayLayout{41d43128 V.ED.... ... 0,0-600,999 #7f0c003f app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{41d46450 V.ED.... ... 0,64-600,999 #1020002 android:id/content}
+                android.widget.RelativeLayout{41d60540 V.E..... ... 0,0-600,935}
+                  android.support.v7.widget.AppCompatTextView{41d61108 V.ED.... ... 250,16-350,66 #7f0c0051 app:id/textView}
+                  android.widget.GridView{41d62be0 VFED.VCL F.. 16,120-584,370 #7f0c0052 app:id/gridView}
+                    android.support.v7.widget.AppCompatTextView{41d7e5e8 V.ED.... ... 0,0-81,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d80f48 V.ED.... ... 81,0-162,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d817f0 V.ED.... ... 162,0-243,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d82098 V.ED.... ... 243,0-324,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d82940 V.ED.... ... 324,0-405,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d831e8 V.ED.... ... 405,0-486,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d83a90 V.ED.... ... 486,0-567,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d84338 V.ED.... ... 0,48-81,96 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d84be0 V.ED.... ... 81,48-162,96 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d85488 V.ED.... ... 162,48-243,96 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d85d30 V.ED.... ... 243,48-324,96 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d865d8 V.ED.... ... 324,48-405,96 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d86e80 V.ED.... ... 405,48-486,96 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d877a0 V.ED.... ... 486,48-567,96 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d88048 V.ED.... ... 0,96-81,144 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d888f0 V.ED.... ... 81,96-162,144 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d89198 V.ED.... ... 162,96-243,144 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d89a40 V.ED.... ... 243,96-324,144 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8a2e8 V.ED.... ... 324,96-405,144 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8ab90 V.ED.... ... 405,96-486,144 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8b438 V.ED.... ... 486,96-567,144 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8bce0 V.ED.... ... 0,144-81,192 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8c588 V.ED.... ... 81,144-162,192 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8ce30 V.ED.... ... 162,144-243,192 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8d6d8 V.ED.... ... 243,144-324,192 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8e028 V.ED.... ... 324,144-405,192 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8e8d0 V.ED.... ... 405,144-486,192 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8f178 V.ED.... ... 486,144-567,192 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d8fa20 V.ED.... ... 0,192-81,240 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d902c8 V.ED.... ... 81,192-162,240 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d90b70 V.ED.... ... 162,192-243,240 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d91418 V.ED.... ... 243,192-324,240 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d91cc0 V.ED.... ... 324,192-405,240 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d92568 V.ED.... ... 405,192-486,240 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d92e10 V.ED.... ... 486,192-567,240 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d936b8 V.ED.... ... 0,240-81,288 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d93f60 V.ED.... ... 81,240-162,288 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d948e0 V.ED.... ... 162,240-243,288 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d951c8 V.ED.... ... 243,240-324,288 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d95a70 V.ED.... ... 324,240-405,288 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d96318 V.ED.... ... 405,240-486,288 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d96bc0 V.ED.... ... 486,240-567,288 #1020014 android:id/text1}
+                  android.widget.GridView{41d66ab8 VFED.VC. ... 16,70-584,120 #7f0c0053 app:id/gridView2}
+                    android.support.v7.widget.AppCompatTextView{41d7dda0 V.ED.... ... 0,0-81,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d974e8 V.ED.... ... 81,0-162,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d97ca0 V.ED.... ... 162,0-243,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d98458 V.ED.... ... 243,0-324,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d98c10 V.ED.... ... 324,0-405,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d993c8 V.ED.... ... 405,0-486,48 #1020014 android:id/text1}
+                    android.support.v7.widget.AppCompatTextView{41d99b80 V.ED.... ... 486,0-567,48 #1020014 android:id/text1}
+                  android.support.v7.widget.AppCompatButton{41d695d0 VFED..C. ... 16,17-64,66 #7f0c0054 app:id/button}
+                  android.support.v7.widget.AppCompatButton{41d6a228 VFED..C. ... 536,17-584,66 #7f0c0055 app:id/button2}
+                  android.widget.GridView{41d6add0 VFED.VCL ... 16,370-584,514 #7f0c0056 app:id/gridView3}
+              android.support.v7.widget.ActionBarContainer{41d470d8 V.ED.... ... 0,0-600,64 #7f0c0040 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{41d48a48 V.E..... ... 0,0-600,64 #7f0c0041 app:id/action_bar}
+                  android.widget.TextView{41d5a9e0 V.ED.... ... 24,18-93,46}
+                  android.support.v7.widget.ActionMenuView{41da0900 V.E..... ... 552,4-592,60}
+                    android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{41da1df0 VFED..C. ... 0,4-40,52}
+                android.support.v7.widget.ActionBarContextView{41d55648 G.E..... ... 0,0-0,0 #7f0c0042 app:id/action_context_bar}
